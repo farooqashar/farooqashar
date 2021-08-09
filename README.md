@@ -4,8 +4,8 @@
 </em></p>
 
 [![Twitter: ashar7041](https://img.shields.io/twitter/follow/ashar7041?style=social)](https://twitter.com/ashar7041)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-asharfarooq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashar-f-415249131/)](https://www.linkedin.com/in/ashar-f-415249131/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/farooqashar?label=follow&style=social)](https://github.com/farooqashar)
+[![Linkedin: ashar-f-415249131](https://img.shields.io/badge/-asharfarooq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashar-f-415249131/)](https://www.linkedin.com/in/ashar-f-415249131/)
+[![GitHub farooqashar](https://img.shields.io/github/followers/farooqashar?label=follow&style=social)](https://github.com/farooqashar)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
