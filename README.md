@@ -17,8 +17,7 @@ studying = "Computer Science, Economics, and Data Science"
 hobbies = ["video games", "biking", "driving", "traveling", "watching YouTube"]
 website = "ashar.vercel.app"
 ```
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=farooqashar&show_icons=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=farooqashar&show_icons=true&theme=tokyonight&hide=stars,issues&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farooqashar&theme=tokyonight)
 
 ---
