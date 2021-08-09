@@ -8,10 +8,14 @@
 [![GitHub farooqashar](https://img.shields.io/github/followers/farooqashar?label=follow&style=social)](https://github.com/farooqashar)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about me...  
 
-```javascript
-const test
+```python
+birthday = "September 27, 2000"
+hometown = "Huntington Station, New York"
+studying = "Computer Science, Economics, and Data Science"
+hobbies = ["video games", "biking", "driving", "traveling", "watching YouTube"]
+website = "ashar.vercel.app"
 ```
 
 ---
