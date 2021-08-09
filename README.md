@@ -6,7 +6,7 @@
 [![Twitter: ashar7041](https://img.shields.io/twitter/follow/ashar7041?style=social)](https://twitter.com/ashar7041)
 [![Linkedin: ashar-f-415249131](https://img.shields.io/badge/-asharfarooq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashar-f-415249131/)](https://www.linkedin.com/in/ashar-f-415249131/)
 [![GitHub farooqashar](https://img.shields.io/github/followers/farooqashar?label=follow&style=social)](https://github.com/farooqashar)
-[![website: ashar.vercel.app](https://img.shields.io/badge/Website-ashar.vercel.app-blue?style=social)](https://ashar.vercel.app)
+[![website: ashar.vercel.app](https://img.shields.io/badge/Website-ashar.vercel.app-blue)](https://ashar.vercel.app)
 ![](https://visitor-badge.laobi.icu/badge?page_id=farooqashar.farooqashar)
 
 
