@@ -1,4 +1,4 @@
-<h2> Hi there! I'm Ashar Farooq! <img src="https://media.giphy.com/media/26BRqMxBADwpK2a6Q/giphy.gif" width="50"></h2>
+<h2> Hi there! I'm Ashar Farooq! 👋🏽</h2>
 <img align='right' src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="230">
 <p><em>Junior at <a target="_blank" href="http://web.mit.edu/">Massachusetts Institute of Technology(MIT)</a><img src="https://images.squarespace-cdn.com/content/v1/5cdb2f71f4e53161eb7561c7/1558015603977-O3VWZLA8969GZRLG8CMR/Dome+sketchy-02.png?format=2500w" width="30"></br>
 </em></p>
