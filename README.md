@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Ashar Farooq! 👋🏽</h2>
 <img align='right' src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="230">
-<p><em>Senior at <a target="_blank" href="http://web.mit.edu/">Massachusetts Institute of Technology(MIT)</a><img src="https://images.squarespace-cdn.com/content/v1/5cdb2f71f4e53161eb7561c7/1558015603977-O3VWZLA8969GZRLG8CMR/Dome+sketchy-02.png?format=2500w" width="30"></br>
+<p><em>Recent Grad at <a target="_blank" href="http://web.mit.edu/">Massachusetts Institute of Technology(MIT)</a><img src="https://images.squarespace-cdn.com/content/v1/5cdb2f71f4e53161eb7561c7/1558015603977-O3VWZLA8969GZRLG8CMR/Dome+sketchy-02.png?format=2500w" width="30"></br>
 </em></p>
 
 [![Twitter: ashar7041](https://img.shields.io/twitter/follow/ashar7041?style=social)](https://twitter.com/ashar7041)
@@ -15,7 +15,7 @@
 ```python
 birthday = "September 27, 2000"
 hometown = "Huntington Station, New York"
-studying = "Computer Science, Economics, and Data Science"
+studied = "Computer Science"
 hobbies = ["video games", "biking", "driving", "traveling", "watching YouTube"]
 website = "ashar.vercel.app"
 ```
