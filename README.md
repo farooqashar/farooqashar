@@ -13,7 +13,7 @@
 ### 🔥 A bit more about me...  
 
 ```python
-birthday = "September 27, 2000"
+birthday = "September 27"
 hometown = "Huntington Station, New York"
 studied = "Computer Science"
 hobbies = ["video games", "biking", "driving", "traveling", "watching YouTube", "tracking data"]
